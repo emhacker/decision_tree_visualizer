@@ -16,5 +16,7 @@ To activate the example use:
 The output is a file in [dot](http://www.graphviz.org/) format, which can be then converted to many formats.
 For example, the command below converts it to PDF:
 `dot -Tpdf out.dot -oout.pdf`
+
+
 ![decision tree](doc/out.png)
 
