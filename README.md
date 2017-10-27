@@ -1,2 +1,2 @@
 # decision_tree_visualizer
-SPARK Decision tree visualizer for
+SPARK Decision tree visualizer.
