@@ -1,2 +1,2 @@
-# decision_tree_visualizer
+# Decision Tree Visualizer
 SPARK Decision tree visualizer.
