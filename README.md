@@ -2,7 +2,7 @@
 [Decision tree](https://en.wikipedia.org/wiki/Decision_tree_learning) visualizer.
 
 ## Preface.
-A small utility to export text representation of SPARK decision trees.
+A small utility to convert text representation of SPARK decision trees into visual graph.
 
 ## Input format
 The input format is in plain text. It can be obtained by using the
