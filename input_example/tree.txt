@@ -1,0 +1,46 @@
+If (feature 2 <= 0.995299041271)
+ If (feature 1 <= 0.128462463617)
+  If (feature 0 <= 0.0683850571513)
+   If (feature 2 <= 0.0)
+    If (feature 1 <= 0.0)
+     Predict: 0.0
+    Else (feature 1 > 0.0)
+     Predict: 1.0
+   Else (feature 2 > 0.0)
+    If (feature 0 <= 0.0355871878564)
+     Predict: 0.0
+    Else (feature 0 > 0.0355871878564)
+     Predict: 1.0
+  Else (feature 0 > 0.0683850571513)
+   If (feature 0 <= 0.168332457542)
+    If (feature 0 <= 0.0711743757129)
+     Predict: 0.0
+    Else (feature 0 > 0.0711743757129)
+     Predict: 0.0
+   Else (feature 0 > 0.168332457542)
+    If (feature 1 <= 0.103329509497)
+     Predict: 0.0
+    Else (feature 1 > 0.103329509497)
+     Predict: 0.0
+ Else (feature 1 > 0.128462463617)
+  If (feature 1 <= 0.148534730077)
+   If (feature 1 <= 0.137772679329)
+    If (feature 0 <= 0.0578642822802)
+     Predict: 0.0
+    Else (feature 0 > 0.0578642822802)
+     Predict: 0.0
+   Else (feature 1 > 0.137772679329)
+    Predict: 1.0
+  Else (feature 1 > 0.148534730077)
+   If (feature 1 <= 0.204737052321)
+    If (feature 0 <= 0.0315623357892)
+     Predict: 0.0
+    Else (feature 0 > 0.0315623357892)
+     Predict: 0.0
+   Else (feature 1 > 0.204737052321)
+    If (feature 1 <= 0.21814006567)
+     Predict: 0.0
+    Else (feature 1 > 0.21814006567)
+     Predict: 0.0
+Else (feature 2 > 0.995299041271)
+ Predict: 1.0
